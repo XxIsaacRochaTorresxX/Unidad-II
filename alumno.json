@@ -1,0 +1,30 @@
+{
+    "Nombre": "Rocha Torres Isaac",
+    "Promedio General": 89,
+    "Materias": [
+        {
+            "Nombre: ": "Microservicios",
+            "Promedio: ": 85
+        },
+        {
+            "Nombre: ": "Contabilidad Financiera",
+            "Promedio: ": 91
+        },
+        {
+            "Nombre: ": "Programacion orientadada objetos",
+            "Promedio: ": 75
+        },
+        {
+            "Nombre: ": "Inteligencia Artificial",
+            "Promedio: ": 95
+        },
+        {
+            "Nombre: ": "Analisis y dise\u00f1o de sistemas de informacion",
+            "Promedio: ": 98
+        },
+        {
+            "Nombre: ": "Dise\u00f1o UX y UI",
+            "Promedio: ": 95
+        }
+    ]
+}
